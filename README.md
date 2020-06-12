@@ -1,4 +1,4 @@
-# sinewave# sinewave
+# sinewave
  
 
 import numpy as np
